@@ -95,7 +95,7 @@ dom 差异化更新提升性能：
 
 
 ```
-python 版本 >= 3.6
+python 版本 >= 3.6 本地启用的是 py37 3.7
 ```
 
 
@@ -142,7 +142,7 @@ python manage.py runserver
 
 
 ```
-python 版本 >= 3.6
+python 版本 >= 3.6 本地启用的是 py37 3.7
 ```
 
 
